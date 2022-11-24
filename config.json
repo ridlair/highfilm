@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0.0",
+  "update": {
+    "version": "1.0.0",
+    "message": ""
+  },
+  "host": "https://ddys.tv",
+  "host_short": "ddys.tv",
+  "live_mp4s": [
+    ".mp4"
+  ],
+  "drawer": {
+    "txt": "生活就是剧本，其实我们每个人都是演员。",
+    "author": "《喜剧之王》",
+    "bg": "https://img1.doubanio.com/view/photo/l/public/p2579932167.webp"
+  },
+  "search_hint_text": "请输入关键词，如\"喜剧之王\"",
+  "review": 1,
+  "play_js": "document.getElementsByClassName(\"vjs-big-play-button\")[0].click();"
+}
